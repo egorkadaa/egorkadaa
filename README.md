@@ -19,12 +19,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=egorkadaa-dev&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egorkadaa-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
-
----
-
 <sub>Building with code, one commit at a time.</sub>
 
 </div>
