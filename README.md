@@ -1,70 +1,48 @@
 <div align="center">
-  
-# 👋 Привет, я egorkadaa!
 
-<img src="https://github.com/egorkadaa-dev.png" width="200" height="200" style="border-radius: 50%; border: 3px solid #58a6ff;">
+<img src="https://github.com/egorkadaa-dev.png" width="150" height="150" style="border-radius: 50%;">
 
-### 🐍 Python Developer | 🗄️ SQLite Enthusiast
+# egorkadaa
 
-<img src="https://github-readme-stats.vercel.app/api?username=egorkadaa-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+**Python Developer** • **Database Engineer**
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/egorkadaa-dev?style=flat&logo=github&logoColor=white&labelColor=24292e&color=0969da)](https://github.com/egorkadaa-dev)
+[![GitHub stars](https://img.shields.io/github/stars/egorkadaa-dev?style=flat&logo=github&logoColor=white&labelColor=24292e&color=0969da)](https://github.com/egorkadaa-dev?tab=repositories)
+
+<br>
 
 ---
 
-## 🔥 Contribution Activity
+<br>
+
+### Tech Stack
+
+`Python` • `SQLite` • `Git`
+
+<br>
 
 ![](https://raw.githubusercontent.com/egorkadaa-dev/egorkadaa-dev/output/github-contribution-grid-snake-dark.svg)
 
----
-
-## 💻 Технологии и инструменты
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<br>
 
 ---
 
-## 📊 GitHub Статистика
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egorkadaa-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=egorkadaa-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" width="450" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorkadaa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<br>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorkadaa-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="450" />
 
-## ⭐ Популярные репозитории
-
-<p align="center">
-  <a href="https://github.com/egorkadaa-dev?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=egorkadaa-dev&repo=egorkadaa-dev&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<br>
 
 ---
 
-## 📫 Связаться со мной
+<br>
 
-<p align="center">
-  <a href="https://github.com/egorkadaa-dev">
-    <img src="https://img.shields.io/badge/GitHub-egorkadaa--dev-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=egorkadaa-dev&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</i>
-</p>
+<sub>Building with code, one commit at a time.</sub>
 
 </div>
