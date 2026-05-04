@@ -37,5 +37,5 @@
 ###
 
 <p align="center">
-  <sub>Fucking some shit.</sub>
+  <sub>Below average developer.</sub>
 </p>
