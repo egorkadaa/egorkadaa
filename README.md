@@ -37,5 +37,5 @@
 ###
 
 <p align="center">
-  <sub>Below average developer.</sub>
+  <sub>developer.</sub>
 </p>
