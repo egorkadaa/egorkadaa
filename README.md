@@ -37,5 +37,5 @@
 ###
 
 <p align="center">
-  <sub>dev.</sub>
+  <sub>dev</sub>
 </p>
