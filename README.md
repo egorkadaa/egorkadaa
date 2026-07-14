@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/egorkadaa-dev.png" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://github.com/egorkadaa.png" width="150" height="150" style="border-radius: 50%;">
 </div>
 
 ###
@@ -12,8 +12,8 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/egorkadaa-dev?style=flat&logo=github&logoColor=white&labelColor=24292e&color=0969da)](https://github.com/egorkadaa-dev)
-[![GitHub stars](https://img.shields.io/github/stars/egorkadaa-dev?style=flat&logo=github&logoColor=white&labelColor=24292e&color=0969da)](https://github.com/egorkadaa-dev?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/egorkadaa?style=flat&logo=github&logoColor=white&labelColor=24292e&color=0969da)](https://github.com/egorkadaa-dev)
+[![GitHub stars](https://img.shields.io/github/stars/egorkadaa?style=flat&logo=github&logoColor=white&labelColor=24292e&color=0969da)](https://github.com/egorkadaa-dev?tab=repositories)
 
 </div>
 
