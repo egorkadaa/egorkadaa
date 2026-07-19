@@ -46,6 +46,4 @@
 
 ###
 
-<p align="center">
-  <sub>dev</sub>
-</p>
+
