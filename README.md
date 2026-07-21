@@ -6,7 +6,7 @@
 ###
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=py,js,nodejs,npm,electron,discordjs,mysql,sqlite,postgres" height="42" alt="languages" />
+<img src="https://skillicons.dev/icons?i=py,js,nodejs,npm,electron,cs,discordjs,mysql,sqlite,postgres" height="42" alt="languages" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github,devto" height="42" alt="tools" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github,devto,figma" height="42" alt="tools" />
 
 </div>
 
